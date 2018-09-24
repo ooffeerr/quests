@@ -44,4 +44,4 @@
 .rvmrc
 
 #dotenv!
-.env
+/.env
